@@ -22,4 +22,3 @@ local Notify = {
 }
 
 return Notify
-
