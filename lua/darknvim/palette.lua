@@ -1,7 +1,9 @@
 local colors = {
 	fg = "#D4D4D4",
 	bg = "#090909",
-	alt_bg = "#111111",
+	alt_bg = "#0E0E0E",
+	tree_bg = "#0C0C0C",
+	pmenu_bg = "#101010",
 
 	gray = "#808080",
 	dark_gray = "#3e3e3e",

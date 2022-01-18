@@ -5,6 +5,9 @@ local highlights = {
 	Visual = { bg = C.ui_blue },
 	VisualNOS = { bg = C.bg },
 
+	StatusLine = { fg = C.fg, bg = C.bg },
+	StatusLineNC = { fg = C.fg, bg = C.bg },
+
 	LineNr = { fg = C.dark_gray },
 	SignColumn = { bg = C.bg },
 	ColorColumn = { bg = C.dark },
@@ -17,9 +20,9 @@ local highlights = {
 	TabLineSel = { fg = C.white, bg = C.bg },
 	TabLineFill = { fg = C.bg, bg = C.tree_gray },
 
-	Pmenu = { fg = C.gray, bg = C.alt_bg },
+	Pmenu = { fg = C.gray, bg = C.pmenu_bg },
 	PmenuSel = { bg = C.ui2_blue },
-	PmenuSbar = { bg = C.alt_bg },
+	PmenuSbar = { bg = C.pmenu_bg },
 	PmenuThumb = { bg = C.dark_gray },
 
 	NormalFloat = { bg = C.bg },
