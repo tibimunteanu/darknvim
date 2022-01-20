@@ -16,13 +16,13 @@ local highlights = {
 	Folded = { fg = C.accent, bg = C.bg },
 	FoldColumn = { fg = C.accent, bg = C.bg },
 
-	TabLine = { fg = C.gray, bg = C.tree_gray },
+	TabLine = { fg = C.gray, bg = C.alt_bg },
 	TabLineSel = { fg = C.white, bg = C.bg },
-	TabLineFill = { fg = C.bg, bg = C.tree_gray },
+	TabLineFill = { fg = C.bg, bg = C.alt_bg },
 
-	Pmenu = { fg = C.gray, bg = C.pmenu_bg },
+	Pmenu = { fg = C.gray, bg = C.alt_bg },
 	PmenuSel = { bg = C.ui2_blue },
-	PmenuSbar = { bg = C.pmenu_bg },
+	PmenuSbar = { bg = C.alt_bg },
 	PmenuThumb = { bg = C.dark_gray },
 
 	NormalFloat = { bg = C.bg },

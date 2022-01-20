@@ -1,14 +1,11 @@
 local colors = {
 	fg = "#D4D4D4",
-	bg = "#090909",
-	alt_bg = "#0E0E0E",
-	tree_bg = "#0C0C0C",
-	pmenu_bg = "#101010",
+	bg = "#111111",
+	alt_bg = "#1a1a1a",
 
 	gray = "#808080",
 	dark_gray = "#3e3e3e",
 	light_gray = "#cccccc",
-	tree_gray = "#222222",
 
 	cursor_fg = "#515052",
 	cursor_bg = "#AEAFAD",
